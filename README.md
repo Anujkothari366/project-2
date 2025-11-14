@@ -1,2 +1,3 @@
 # project-2
-this is my work project .  
+This is my work project .  
+AUTHOR 
